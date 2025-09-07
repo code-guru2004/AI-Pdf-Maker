@@ -1,0 +1,15 @@
+CONVEX_DEPLOYMENT=dev:patient-retriever-48 # team: nayan-das, project: ai-pdf-note-taker-54bfa
+
+NEXT_PUBLIC_CONVEX_URL=https://patient-retriever-48.convex.cloud
+
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_Y3VyaW91cy1ib2FyLTQxLmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_m79I5YNzvkPJzLBrwnPc95sbFfWFvcNbhf4Sp019cl
+
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+
+NEXT_PUBLIC_GEMINI_API_KEY=AIzaSyDRjE1GyR0Sm8wWLC6nmQTlrMfroCxbbU8
+
+NEXT_PUBLIC_PAYPAL_CLIENT_ID=AUzXQVcGk0_YPMvqglHEZXhswfWDMu4PXTUt0w5ywuJTicKhyxLtGfBZssGd94JNKY5BTaM54SEJTrm2
